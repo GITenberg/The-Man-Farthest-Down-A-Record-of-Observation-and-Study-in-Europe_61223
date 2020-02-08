@@ -1,0 +1,34 @@
+_repo: The-Man-Farthest-Down-A-Record-of-Observation-and-Study-in-Europe_61223
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Washington, Booker T.
+    alias: Washington, Booker Taliaferro
+    birthdate: 1856
+    deathdate: 1915
+    gutenberg_agent_id: '880'
+    url: http://www.gutenberg.org/2009/agents/880
+    wikipedia: http://en.wikipedia.org/wiki/Booker_T._Washington
+  - agent_name: Park, Robert Ezra
+    birthdate: 1864
+    deathdate: 1944
+    gutenberg_agent_id: '33365'
+    url: http://www.gutenberg.org/2009/agents/33365
+    wikipedia: https://en.wikipedia.org/wiki/Robert_E._Park
+description: ''
+gutenberg_issued: '2020-01-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '61223'
+  lccn: '12022002'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'HD'
+- !lcsh 'Poor -- Europe'
+- !lcsh 'Working class -- Europe'
+- GITenberg
+title: 'The Man Farthest Down: A Record of Observation and Study in Europe'
+url: http://www.gutenberg.org/ebooks/61223
